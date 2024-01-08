@@ -1,6 +1,6 @@
 name,prompt,negative_prompt
-Default,"masterpiece, best quality","lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,artist name"
-Quality,"(masterpiece, best quality:1),","(lowres, worst quality, low quality, normal quality:1.3),"
+Default,"masterpiece, best quality","(worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,((monochrome)),((grayscale)), normal quality, jpeg artifacts, signature, watermark, username, blurry,artist name"
+短发肖像,"portrait, hard candy, playful face green eyes, ((dark scene, soft lighting:1.3)), bobcut hair with bangs,  glossy lips, olive green retro bomber jacket,,",""
 NAiDefault,"masterpiece, best quality","text, lowres, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad anatomy, bad hands, error, missing fingers, extra digit, fewer digits, missing arms, long neck, Humpbacked"
 高质壁纸,"masterpiece, best quality, 8k, finely detailed beautiful eyes, vividcolor, beautiful detailed face, Cinematic light, ray tracing, high resolution illustration, colorful, 8k wallpaper, highres",
 精致女孩,an extremely delicate and beautiful girl,
