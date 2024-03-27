@@ -4,9 +4,7 @@
     "txt2img/Negative prompt/visible": true,
     "txt2img/Negative prompt/value": "ng_deepnegative_v1_75t, (badhandv4:1.2), (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, ((monochrome)), ((grayscale)) watermark,",
     "txt2img/Styles/visible": true,
-    "txt2img/Styles/value": [
-        "Default"
-    ],
+    "txt2img/Styles/value": true,
     "txt2img/Sampling method/visible": true,
     "txt2img/Sampling method/value": "DPM++ 2M Karras",
     "txt2img/Sampling steps/visible": true,
