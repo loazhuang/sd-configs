@@ -48,7 +48,7 @@
         "R-ESRGAN 4x+",
         "R-ESRGAN 4x+ Anime6B"
     ],
-    "upscaler_for_img2img": "8x_NMKD-Superscale_150000_G",
+    "upscaler_for_img2img": "",
     "SCUNET_tile": 256,
     "SCUNET_tile_overlap": 8,
     "face_restoration_model": "CodeFormer",
